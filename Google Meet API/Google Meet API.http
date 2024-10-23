@@ -1,0 +1,6 @@
+@Google_Meet_API_HostAddress = http://localhost:5243
+
+GET {{Google_Meet_API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
